@@ -1,14 +1,19 @@
-AUTHOR: Sole_Wolf (Keith Armstrong)
+#AUTHOR:
+Sole_Wolf (Keith Armstrong)
 
-NAME: Did you mean...
+#NAME:
+Did you mean...
 
-VERSION: 1.0.0
+#VERSION:
+1.0.0
 
-DATE: August 23th, 2012
+#DATE:
+August 23th, 2012
 
-DESCRIPTION: Provides helpful URL suggestions for users that might have mistyped an URL.
+#DESCRIPTION:
+Provides helpful URL suggestions for users that might have mistyped an URL.
 
-USAGE:
+#USAGE:
 reindex.php creates an index of your entire site into a file called index.
 It is recommended that you make this script run once a day via cron job to
 have an updated database of your site so that the latest URLs can be synced.
