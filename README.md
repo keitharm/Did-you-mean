@@ -1,4 +1,4 @@
-=AUTHOR: Sole_Wolf (Keith Armstrong)=
+AUTHOR: Sole_Wolf (Keith Armstrong)
 
 NAME: Did you mean...
 
